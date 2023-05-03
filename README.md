@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @MinnerGun
 - 👀 have no hobby in particular.
-- 🌱 i'm currently learning python.
+- 🌱 i'm currently learning javascript and nodeJS.
 - 📫 still learning so currently not accepting any message.
 
 <!---
